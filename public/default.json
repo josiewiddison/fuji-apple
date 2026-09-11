@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "copy": {},
+  "home": {
+    "brand": "FUJI / FIELD NOTES",
+    "strap": "ONE APPLE. EVERY LAYER.",
+    "eyebrow": "THE FRUIT FILES / NO. 001",
+    "heading": "A whole world.",
+    "accentHeading": "Under the skin.",
+    "explore": "Explore the slices ↗",
+    "credits": "An independent apple guide · Sources checked September 2026 · AI-created apple artwork"
+  },
+  "theme": {
+    "background": "#10110f",
+    "text": "#f2f2e9",
+    "accent": "#dbff70",
+    "muted": "#aeb0a5",
+    "font": "DM Sans",
+    "headingFont": "Barlow Condensed",
+    "panel": "#181c13",
+    "radius": 30
+  },
+  "images": {
+    "whole": "/fuji.png",
+    "peeled": "/peeled.png",
+    "sliced": "/sliced.png"
+  },
+  "layout": {
+    "appleSize": 76,
+    "appleX": 53,
+    "appleY": 52,
+    "headingSize": 64,
+    "panelWidth": 660,
+    "textSize": 16
+  },
+  "animation": {
+    "enabled": true,
+    "scrollLength": 340
+  },
+  "sections": [
+    {
+      "id": "origin",
+      "title": "The origin",
+      "visible": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "A Japanese original. Two American parents."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fuji started with a cross in Fujisaki, Aomori, Japan, in 1939: Ralls Janet (Kokko) × Delicious."
+        },
+        {
+          "type": "paragraph",
+          "text": "Officially named and registered in 1962, it took its name from its hometown. Today, “Fuji” describes the apple variety; it doesn’t mean the apple in your hand was grown in Japan. Read the origin story ↗"
+        },
+        {
+          "type": "link",
+          "text": "Read the origin story ↗",
+          "url": "https://www.town.fujisaki.lg.jp/index.cfm/6%2C0%2C13%2C226%2Chtml"
+        },
+        {
+          "type": "heading",
+          "text": "Big crunch."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dense, crisp flesh with plenty of juice. Made for eating fresh."
+        },
+        {
+          "type": "heading",
+          "text": "Sweet first."
+        },
+        {
+          "type": "paragraph",
+          "text": "A sweetness-led profile with gentle acidity, rather than a sharp, tart bite."
+        },
+        {
+          "type": "heading",
+          "text": "Red on gold."
+        },
+        {
+          "type": "paragraph",
+          "text": "A red-to-pink blush over a yellow-green base; color varies by strain and growing conditions."
+        },
+        {
+          "type": "link",
+          "text": "Variety notes: Washington Apple Commission ↗",
+          "url": "https://waapple.org/varieties/fuji/"
+        }
+      ]
+    },
+    {
+      "id": "grown",
+      "title": "Where it grows",
+      "visible": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "One variety. Many home grounds."
+        },
+        {
+          "type": "paragraph",
+          "text": "From its birthplace to orchards across both hemispheres. These are selected growing and export regions, not an exhaustive farm directory."
+        },
+        {
+          "type": "heading",
+          "text": "Japan"
+        },
+        {
+          "type": "paragraph",
+          "text": "THE BIRTHPLACE · AOMORI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fujisaki is where the variety began. Aomori’s apple-growing history and Fuji’s breeding story are closely connected."
+        },
+        {
+          "type": "link",
+          "text": "Aomori apple history ↗",
+          "url": "https://www.aomori-ringo.or.jp/overview/history/"
+        },
+        {
+          "type": "heading",
+          "text": "United States"
+        },
+        {
+          "type": "paragraph",
+          "text": "WASHINGTON & NEW YORK"
+        },
+        {
+          "type": "paragraph",
+          "text": "Washington’s Wenatchee Valley growers list Fuji among their varieties. New York also grows Fuji, with its own regional growers and seasonal supply."
+        },
+        {
+          "type": "link",
+          "text": "Washington growers ↗",
+          "url": "https://waapple.org/regions/wenatchee-valley/"
+        },
+        {
+          "type": "link",
+          "text": "New York Fuji ↗",
+          "url": "https://www.applesfromny.com/varieties/fuji/"
+        },
+        {
+          "type": "heading",
+          "text": "China"
+        },
+        {
+          "type": "paragraph",
+          "text": "A MAJOR FUJI PRODUCER"
+        },
+        {
+          "type": "paragraph",
+          "text": "USDA’s 2024 China fruit report identifies Fuji as the country’s most plentiful apple variety. Production includes fruit for domestic consumption and trade."
+        },
+        {
+          "type": "link",
+          "text": "USDA country report ↗",
+          "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Fresh+Deciduous+Fruit+Annual_Beijing_China+-+People%27s+Republic+of_CH2024-0139"
+        },
+        {
+          "type": "heading",
+          "text": "South of the equator"
+        },
+        {
+          "type": "paragraph",
+          "text": "CHILE & SOUTH AFRICA"
+        },
+        {
+          "type": "paragraph",
+          "text": "Both export Fuji apples. Their opposite growing season helps extend international supply beyond the Northern Hemisphere harvest."
+        },
+        {
+          "type": "link",
+          "text": "Fuji export records ↗",
+          "url": "https://www.hortgro.co.za/wp-content/uploads/docs/dlm_uploads/2023/10/SH-Apple-Exports-Week-41-ETA-43-2023.pdf"
+        },
+        {
+          "type": "paragraph",
+          "text": "Harvest is seasonal. Shopping can be year-round. Northern and Southern Hemisphere crops, together with refrigerated storage, extend availability. Exact harvest dates and store origins vary by region, season, and supplier."
+        }
+      ]
+    },
+    {
+      "id": "journey",
+      "title": "Orchard to shelf",
+      "visible": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Orchard. Cold room. Your kitchen."
+        },
+        {
+          "type": "paragraph",
+          "text": "A typical commercial journey, based on Washington’s packing process. Individual growers, exporters, and retailers may handle fruit differently."
+        },
+        {
+          "type": "heading",
+          "text": "Grow & pick"
+        },
+        {
+          "type": "paragraph",
+          "text": "Apples are picked in the orchard and collected into bins before moving to a packing house."
+        },
+        {
+          "type": "heading",
+          "text": "Check & sort"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fruit is washed and inspected. Size, color, shape, internal condition, and maturity help determine its next stop."
+        },
+        {
+          "type": "heading",
+          "text": "Keep it crisp"
+        },
+        {
+          "type": "paragraph",
+          "text": "Refrigeration slows ripening. Controlled-atmosphere rooms also manage gases to preserve quality for later sale."
+        },
+        {
+          "type": "heading",
+          "text": "Pack & deliver"
+        },
+        {
+          "type": "paragraph",
+          "text": "Apples are packed for distribution to retailers and other buyers. Imported fruit adds an exporter and importer to the journey."
+        },
+        {
+          "type": "link",
+          "text": "Inside the process: Washington Apple Commission ↗",
+          "url": "https://waapple.org/standards/"
+        },
+        {
+          "type": "heading",
+          "text": "Where did your Fuji come from?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Start with the country-of-origin sign or packaging. Then look for a grower or packer name and a lot code. If you want the actual orchard, ask the produce department or the named supplier."
+        },
+        {
+          "type": "paragraph",
+          "text": "The variety name alone cannot identify a farm, harvest date, or shipping route. A retailer may change suppliers throughout the year."
+        },
+        {
+          "type": "link",
+          "text": "USDA country-of-origin labeling ↗",
+          "url": "https://www.ams.usda.gov/rules-regulations/cool"
+        }
+      ]
+    },
+    {
+      "id": "buy",
+      "title": "Find your Fuji",
+      "visible": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Good apples. Within reach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Start with these US retailers or buy through a regional grower. Listings are examples, not live local inventory. Check your store for current availability, price, and origin."
+        },
+        {
+          "type": "link",
+          "text": "01 Walmart Fresh Fuji apples · individual & bagged ↗",
+          "url": "https://www.walmart.com/c/kp/fuji-apples"
+        },
+        {
+          "type": "link",
+          "text": "02 Kroger Conventional & organic Fuji listings ↗",
+          "url": "https://www.kroger.com/q/fuji%2Bapples"
+        },
+        {
+          "type": "link",
+          "text": "03 Go regional Explore New York’s Fuji grower guide ↗",
+          "url": "https://www.applesfromny.com/varieties/fuji/"
+        }
+      ]
+    },
+    {
+      "id": "care",
+      "title": "The perfect bite",
+      "visible": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Pick well. Crunch happily."
+        },
+        {
+          "type": "heading",
+          "text": "Choose firm fruit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Look for apples without bruises or decay. Natural surface markings alone don’t make a bad apple."
+        },
+        {
+          "type": "heading",
+          "text": "Keep it chilled."
+        },
+        {
+          "type": "paragraph",
+          "text": "Refrigerate apples to help preserve their crisp texture. Check stored fruit regularly and use damaged apples promptly."
+        },
+        {
+          "type": "heading",
+          "text": "Enjoy the sweetness."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eat fresh, slice into salads, or cook into applesauce. Fuji’s naturally sweet character suits simple preparations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Further reading: Fruits from Chile ↗ · New York Apple Association ↗"
+        },
+        {
+          "type": "link",
+          "text": "Fruits from Chile ↗",
+          "url": "https://fruitsfromchile.com/fruit/apples/"
+        },
+        {
+          "type": "link",
+          "text": "New York Apple Association ↗",
+          "url": "https://www.applesfromny.com/varieties/fuji/"
+        }
+      ]
+    }
+  ]
+}
