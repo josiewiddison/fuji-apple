@@ -1,0 +1,10 @@
+{
+  "name": "fuji-studio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node local.mjs"
+  },
+  "packageManager": "pnpm@11.19.0"
+}
